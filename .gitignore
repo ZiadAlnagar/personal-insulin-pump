@@ -1,0 +1,9 @@
+.idea
+
+build
+out
+dependencies
+
+*.iml
+manifest.mf
+build.xml
